@@ -1,4 +1,8 @@
-# React Project
+# Dark Theme Toggle
+
+The toggle button to switch from a "light theme" to a "dark theme".
+
+Demo - https://darktoggle.onrender.com
 
 ## Available Scripts
 
